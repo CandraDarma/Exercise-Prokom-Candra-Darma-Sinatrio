@@ -1,0 +1,5 @@
+In Python you can store text in variables.
+In Python you can make decisions with if statements.
+In Python you can repeat work with for and while loops.
+In Python you can group code into reusable functions.
+In Python you can build your own classes.
